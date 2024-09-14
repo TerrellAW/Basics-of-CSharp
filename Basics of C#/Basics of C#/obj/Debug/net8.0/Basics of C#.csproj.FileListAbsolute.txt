@@ -1,0 +1,14 @@
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\bin\Debug\net8.0\Basics of C#.exe
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\bin\Debug\net8.0\Basics of C#.deps.json
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\bin\Debug\net8.0\Basics of C#.runtimeconfig.json
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\bin\Debug\net8.0\Basics of C#.dll
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\bin\Debug\net8.0\Basics of C#.pdb
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.AssemblyInfoInputs.cache
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.AssemblyInfo.cs
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.csproj.CoreCompileInputs.cache
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.dll
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\refint\Basics of C#.dll
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.pdb
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\Basics of C#.genruntimeconfig.cache
+C:\Users\terre\OneDrive\Documents\Programming and Scripting\C#\SAIT\Basics of C#\Basics of C#\obj\Debug\net8.0\ref\Basics of C#.dll
